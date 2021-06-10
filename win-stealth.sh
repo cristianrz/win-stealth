@@ -1,7 +1,7 @@
 #!/bin/bash
 
 CURRENT=$(hostname)
-HOSTNAME_PREFIX="ANS-LT-"
+HOSTNAME_PREFIX="PC-"
 
 randomise_hostname(){
 
